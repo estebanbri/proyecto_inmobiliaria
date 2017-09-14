@@ -1,0 +1,161 @@
+[
+        {
+            "tipo_propiedad":"Casa",
+            "direccion":"Quintana 789",
+            "ciudad":"Concordia",
+            "cant_amb":"3",
+            "tipo_operacion":"Venta",
+            "shortname1":"casa1",
+            "shortname2":"casa2",
+            "shortname3":"casa3"
+
+
+
+        },
+
+        {
+            "tipo_propiedad":"Galpon",
+            "direccion":"Sarmiento 987",
+            "ciudad":"Ayui",
+            "cant_amb":"2",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"galpon1",
+            "shortname2":"galpon1",
+            "shortname3":"galpon1"
+
+        },
+        {
+            "tipo_propiedad":"Departamento",
+            "direccion":"Urdinarrain 888",
+            "ciudad":"Concordia",
+            "cant_amb":"2",
+            "tipo_operacion":"Venta",
+            "shortname1":"depto1a",
+            "shortname2":"depto1b",
+            "shortname3":"depto1c"
+
+        },
+        {
+            "tipo_propiedad":"Galpon",
+            "direccion":"Alvear 777",
+            "ciudad":"Concordia",
+            "cant_amb":"4",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"galpon2a",
+            "shortname2":"galpon2b",
+            "shortname3":"galpon3"
+
+        },
+        {
+            "tipo_propiedad":"Campo",
+            "direccion":"Urquiza 999",
+            "ciudad":"Concordia",
+            "cant_amb":"2",
+            "tipo_operacion":"Venta",
+            "shortname1":"campo1",
+            "shortname2":"campo2",
+            "shortname3":"campo2"
+
+        },
+        {
+            "tipo_propiedad":"Terreno",
+            "direccion":"Mendoza 978",
+            "ciudad":"Federacion",
+            "cant_amb":"1",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"terreno1",
+            "shortname2":"terreno1",
+            "shortname3":"terreno1"
+
+        },
+        {
+            "tipo_propiedad":"Local",
+            "direccion":"La Madrid 988",
+            "ciudad":"Chajari",
+            "cant_amb":"2",
+            "tipo_operacion":"Venta",
+            "shortname1":"local1a",
+            "shortname2":"local1b",
+            "shortname3":"local1c"
+
+        },
+        {
+            "tipo_propiedad":"Oficina",
+            "direccion":"Tavella 889",
+            "ciudad":"Federal",
+            "cant_amb":"1",
+            "tipo_operacion":"Venta",
+            "shortname1":"oficina1a",
+            "shortname2":"oficina1b",
+            "shortname3":"oficina1c"
+
+        },
+        {
+            "tipo_propiedad":"Casa",
+            "direccion":"Corrientes 797",
+            "ciudad":"Diamante",
+            "cant_amb":"3",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"casa1a",
+            "shortname2":"casa1b",
+            "shortname3":"casa1c"
+
+        },
+        {
+            "tipo_propiedad":"Departamento",
+            "direccion":"Urdinarrain 779",
+            "ciudad":"Nogoya",
+            "cant_amb":"4",
+            "tipo_operacion":"Venta",
+            "shortname1":"depto2a",
+            "shortname2":"depto2b",
+            "shortname3":"depto2c"
+
+        },
+        {
+            "tipo_propiedad":"Casa",
+            "direccion":"Brown 799",
+            "ciudad":"Chajari",
+            "cant_amb":"2",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"casa2a",
+            "shortname2":"casa2b",
+            "shortname3":"casa2c"
+
+        },
+        {
+            "tipo_propiedad":"Departamento",
+            "direccion":"Catamarca 998",
+            "ciudad":"Federacion",
+            "cant_amb":"2",
+            "tipo_operacion":"Venta",
+            "shortname1":"depto3a",
+            "shortname2":"depto3a",
+            "shortname3":"depto3a"
+
+        },
+        {
+            "tipo_propiedad":"Galpon",
+            "direccion":"Sarmiento 997",
+            "ciudad":"Federacion",
+            "cant_amb":"4",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"galpon1a",
+            "shortname2":"galpon1b",
+            "shortname3":"galpon1c"
+
+        },
+        {
+            "tipo_propiedad":"Campo",
+            "direccion":"Sarmiento 998",
+            "ciudad":"Chajari",
+            "cant_amb":"4",
+            "tipo_operacion":"Alquiler",
+            "shortname1":"terreno1",
+            "shortname2":"terreno1",
+            "shortname3":"terreno1"
+
+        }
+
+
+]

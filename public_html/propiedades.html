@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title> Inmobiliaria - Propiedades </title>
+		<meta charset="utf-8">
+		<meta name="description" content="Inmobiliaria Uner">
+ 		<meta name="keywords" content="Inmobiliaria,Uner">
+ 		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+ 		<script src="js/jquery.js"></script>
+                <script src="js/script_buscador.js"></script>
+                <script src="js/script_mostrar.js"></script>
+                <script src="js/script_filtro.js"></script>
+                <script src="jquery-2.1.4.min.js" type="text/javascript"></script>
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+	</head>
+	<body>
+		 <div id="agrupar">
+			<header id="cabecera">
+				<img src="imagenes/banner1.png" alt="banner">
+			</header>
+			<nav id="menu">
+				<ul>
+					<li><a href="index.html">Inicio</a></li>
+					<li><a href="Quienes_somos.html">¿Quienes Somos?</a></li>
+				    <li><a href="#">Propiedades</a></li>
+				    <li><a href="contactos.html">Contactos</a></li>
+				</ul>
+			</nav>
+			<div id="seccion_aside">
+                                    <section id="seccion">	
+                                            <article id="articulo">	
+                                                <div id="update"></div>
+
+                                            </article>                                 
+                                    </section>
+
+                                    <aside id="columna">
+                                                
+                                                <h2>Filtros</h2>
+
+                                                <select id="ciudad" name="ciudad">
+                                                        <option selected value="Localidad">Localidad</option>
+                                                        <option value="Concordia">Concordia</option>
+                                                        <option value="Chajari">Chajari</option>
+                                                        <option value="Federacion">Federacion</option>
+                                                        <option value="Ayui">Ayui</option>
+                                                        <option value="Diamante">Diamante</option>
+                                                        <option value="Nogoya">Nogoya</option>
+                                                 </select>
+
+                                                <select id="Ambientes" name="Ambientes"> 
+                                                        <option selected value="Ambientes">Ambientes</option>
+                                                        <option value="1">1</option>
+                                                        <option value="2">2</option>
+                                                        <option value="3">3</option>
+                                                        <option value="4">4</option>
+                                                 </select>
+                                                <select id="Tipo_Propiedad" name="Tipo_Propiedad">
+                                                        <option selected value="Propiedad">Propiedad</option>
+                                                        <option value="Casa">Casa</option>
+                                                        <option value="Departamento">Departamento</option>
+                                                        <option value="Campo">Campo</option>
+                                                        <option value="Terreno">Terreno</option>
+                                                        <option value="Galpon">Galpon</option>
+                                                        <option value="Local">Local</option>
+                                                        <option value="Oficina">Oficina</option>
+                                                 </select>
+                                               <select id="Tipo_Operacion" name="Tipo_Operacion">
+                                                       <option selected value="Operacion">Operacion</option>
+                                                        <option value="Venta">Venta</option>
+                                                        <option value="Alquiler">Alquiler</option>
+                                                 </select>
+                                                <br>
+                                                <button id="btnConsultar" name="boton">
+                                                    Buscar
+                                                </button>
+                                                
+                                                <div id="searcharea">
+                                                 <h2>Busqueda en vivo!</h2>
+
+                                                <input type="search" name="search" id="search" placeholder="Ingresar busqueda" />
+                                                </div>
+                                                
+
+
+
+                                    </aside>
+			</div>
+			<footer id="pie">
+      	 	   <small>Todos los derechos reservados </small>
+  			</footer>
+		</div>
+	</body>
+</html>
